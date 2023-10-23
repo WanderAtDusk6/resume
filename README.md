@@ -4,6 +4,8 @@
 
 web简历，就着tailwindcss一通乱写完成了
 
+`github page`预览地址: https://wanderatdusk6.github.io/resume/src/
+
 ## 叠甲
 
 xdm这简历看破不说破奥谢谢辣（其实也大差不差了），有修改建议可以直接告诉我，非常感谢
