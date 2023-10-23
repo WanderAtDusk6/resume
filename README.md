@@ -2,7 +2,7 @@
 
 参考的原项目见： `README_old.md`
 
-就着tailwindcss一通乱写完成了
+web简历，就着tailwindcss一通乱写完成了
 
 ## 叠甲
 
